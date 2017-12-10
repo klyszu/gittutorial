@@ -1,0 +1,64 @@
+From 90e9e6e5083f1a796fec45f89bf4813cbcc7ca52 Mon Sep 17 00:00:00 2001
+From: KlyszuHomeMachine <Klysz@ppg.com>
+Date: Sun, 10 Dec 2017 22:16:20 +0100
+Subject: [PATCH] czym sie zalejemy 4
+
+---
+ jakie alko.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/jakie alko.txt b/jakie alko.txt
+index e636eb9..3dcc426 100644
+--- a/jakie alko.txt	
++++ b/jakie alko.txt	
+@@ -3,4 +3,5 @@ w贸da
+ gin z tonikiem
+ 艂ycha
+ browal lokalny
+-kokos贸wka
+\ No newline at end of file
++kokos贸wka,
++pigw贸wka
+\ No newline at end of file
+-- 
+2.10.1.windows.1
+
+From 65efd48d0dfdcb77f481262c2a28ae8220f2781a Mon Sep 17 00:00:00 2001
+From: KlyszuHomeMachine <Klysz@ppg.com>
+Date: Sun, 10 Dec 2017 22:15:50 +0100
+Subject: [PATCH] czym sie zalejemy 3
+
+---
+ jakie alko.txt    | 4 +++-
+ party members.txt | 2 +-
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+diff --git a/jakie alko.txt b/jakie alko.txt
+index 0e0de5a..e636eb9 100644
+--- a/jakie alko.txt	
++++ b/jakie alko.txt	
+@@ -1,4 +1,6 @@
+ browar 
+ w贸da
+ gin z tonikiem
+-艂ycha
+\ No newline at end of file
++艂ycha
++browal lokalny
++kokos贸wka
+\ No newline at end of file
+diff --git a/party members.txt b/party members.txt
+index 811d33a..a412fb0 100644
+--- a/party members.txt	
++++ b/party members.txt	
+@@ -3,4 +3,4 @@ ty
+ on
+ ona
+ mietek spod monopolu
+-karze硞
+\ No newline at end of file
++karze艂
+\ No newline at end of file
+-- 
+2.10.1.windows.1
+
